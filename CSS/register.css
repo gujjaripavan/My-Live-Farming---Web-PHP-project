@@ -1,0 +1,10 @@
+.active{
+	background-color: rgb(64, 61, 52);
+	color:white!important;
+	border-radius: 10px;
+}
+
+.font{
+	font-family: 'Comfortaa', cursive;
+}
+
